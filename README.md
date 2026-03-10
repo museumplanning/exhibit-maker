@@ -1,3 +1,3 @@
 Museum Planning LLC
 Museum Gallery Builder 
-- https://museumplanning.github.io/exhibit-galleries
+- https://museumplanning.github.io/exhibit-maker
